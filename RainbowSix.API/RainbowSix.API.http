@@ -1,0 +1,6 @@
+@RainbowSix.API_HostAddress = http://localhost:5010
+
+GET {{RainbowSix.API_HostAddress}}/auth/
+Accept: application/json
+
+###
