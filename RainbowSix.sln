@@ -13,8 +13,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RainbowSix.Common", "Rainbo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RainbowSix.Common.Database", "RainbowSix.Common.Database\RainbowSix.Common.Database.csproj", "{4369D0ED-173B-4EE6-8F1E-986A8F904AFA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RainbowSix.WinForms", "RainbowSix.WinForms\RainbowSix.WinForms.csproj", "{4A13D734-6DE1-41B9-8066-F15FCDB51453}"
-EndProject
 Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "RainbowSix.UI", "RainbowSix.UI\RainbowSix.UI.esproj", "{8E9FBBCE-F7DB-E5C4-10F5-58C5E3588164}"
 EndProject
 Global
@@ -43,10 +41,6 @@ Global
 		{4369D0ED-173B-4EE6-8F1E-986A8F904AFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4369D0ED-173B-4EE6-8F1E-986A8F904AFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4369D0ED-173B-4EE6-8F1E-986A8F904AFA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4A13D734-6DE1-41B9-8066-F15FCDB51453}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4A13D734-6DE1-41B9-8066-F15FCDB51453}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4A13D734-6DE1-41B9-8066-F15FCDB51453}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4A13D734-6DE1-41B9-8066-F15FCDB51453}.Release|Any CPU.Build.0 = Release|Any CPU
 		{8E9FBBCE-F7DB-E5C4-10F5-58C5E3588164}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{8E9FBBCE-F7DB-E5C4-10F5-58C5E3588164}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E9FBBCE-F7DB-E5C4-10F5-58C5E3588164}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
