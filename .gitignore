@@ -1,0 +1,22 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/RainbowSix/obj
+/RainbowSix.API/bin/Debug/net8.0
+/RainbowSix.API/obj
+/RainbowSix.Common/bin/Debug/net8.0
+/RainbowSix.Common/obj/Debug/net8.0
+/RainbowSix.Common/obj
+/RainbowSix.Common.Database/bin/Debug/net8.0
+/RainbowSix.Common.Database/obj/Debug/net8.0
+/RainbowSix.Common.Database/obj
+/RainbowSix.Database/bin/Debug
+/RainbowSix.Database/obj/Debug
+/RainbowSix.Portal/.vscode
+/RainbowSix.Portal/obj/Debug
+/RainbowSix.UI/obj/Debug
+/RainbowSix.WebClient/bin/Debug/net8.0
+/RainbowSix.WebClient/obj
+/RainbowSix.WinForms/obj
