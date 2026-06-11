@@ -1,3 +1,0 @@
-<script>
-  introJs().setOption('showBullets', false).start();
-</script>
